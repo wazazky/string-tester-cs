@@ -1,0 +1,22 @@
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\bin\Debug\Lenguajes y Automatas Pratica 1.exe.config
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\bin\Debug\Lenguajes y Automatas Pratica 1.exe
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\bin\Debug\Lenguajes y Automatas Pratica 1.pdb
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.csproj.AssemblyReference.cache
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.csproj.SuggestedBindingRedirects.cache
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes_y_Automatas_Pratica_1.Form1.resources
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes_y_Automatas_Pratica_1.Properties.Resources.resources
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.csproj.GenerateResource.cache
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.csproj.CoreCompileInputs.cache
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.exe
+E:\Workspace\Topicos Avanzados De programacion\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.pdb
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\bin\Debug\Lenguajes y Automatas Pratica 1.exe.config
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\bin\Debug\Lenguajes y Automatas Pratica 1.exe
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\bin\Debug\Lenguajes y Automatas Pratica 1.pdb
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.csproj.AssemblyReference.cache
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes_y_Automatas_Pratica_1.Form1.resources
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes_y_Automatas_Pratica_1.Properties.Resources.resources
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.csproj.GenerateResource.cache
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.exe
+C:\Users\Jesus\OneDrive\Documents\analizador-lexico-main\Lenguajes y Automatas Pratica 1\Lenguajes y Automatas Pratica 1\obj\Debug\Lenguajes y Automatas Pratica 1.pdb
